@@ -1,1 +1,1 @@
-Check out or new [Developer Documentation]((https://github.com/moonclerk/developer).
+Check out or new [Developer Documentation](https://github.com/moonclerk/developer).
